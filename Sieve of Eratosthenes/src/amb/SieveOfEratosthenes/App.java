@@ -1,3 +1,4 @@
+package amb.SieveOfEratosthenes;
 
 public class App {
 
